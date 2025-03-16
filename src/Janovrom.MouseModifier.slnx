@@ -5,8 +5,10 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/Solution Items/">
+    <File Path="../README.md" />
     <File Path=".editorconfig" />
     <File Path=".gitignore" />
+    <File Path="Directory.Build.props" />
   </Folder>
-  <Project Path="Janovrom.MouseModifier.WindowsService/Janovrom.MouseModifier.WindowsService.csproj" />
+  <Project Path="Janovrom.MouseModifier/Janovrom.MouseModifier.Console.csproj" Id="1f7261b4-3eac-b903-165f-5521209f6195" />
 </Solution>
